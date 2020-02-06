@@ -1,0 +1,5 @@
+com/michaelschoenbeck/healthapp/repositories/HeartBeatRecordRepo.class
+com/michaelschoenbeck/healthapp/models/HeartBeatRecord.class
+com/michaelschoenbeck/healthapp/HealthAppApplication.class
+com/michaelschoenbeck/healthapp/services/HeartBeatRecordSAXHandler.class
+com/michaelschoenbeck/healthapp/controllers/HeartBeatRecordController.class

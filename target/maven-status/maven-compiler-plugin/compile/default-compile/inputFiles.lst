@@ -1,0 +1,5 @@
+/Users/michael/Dev/healthapp/src/main/java/com/michaelschoenbeck/healthapp/models/HeartBeatRecord.java
+/Users/michael/Dev/healthapp/src/main/java/com/michaelschoenbeck/healthapp/HealthAppApplication.java
+/Users/michael/Dev/healthapp/src/main/java/com/michaelschoenbeck/healthapp/services/HeartBeatRecordSAXHandler.java
+/Users/michael/Dev/healthapp/src/main/java/com/michaelschoenbeck/healthapp/repositories/HeartBeatRecordRepo.java
+/Users/michael/Dev/healthapp/src/main/java/com/michaelschoenbeck/healthapp/controllers/HeartBeatRecordController.java
